@@ -1,0 +1,2 @@
+You are completely free to use/modify/redistribute the files in this folder as you please
+I simply ask that you credit me and do not redistribute the files in a format that would be percived as malicious, the script was written with the express intent of being distributed to people with a lack of knowledge in windows CMD
