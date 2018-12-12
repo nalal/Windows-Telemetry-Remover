@@ -19,3 +19,5 @@ KB3146449 	Updated Internet Explorer 11 capabilities to upgrade to Windows 10
 
 simply run the BAT with admin permission and give input where requested
 DO NOT TERMINATE THE BAT FILE UNTIL IT HAS FINISHED
+
+If you identify an other update codes that add similar functionality, please contact me
